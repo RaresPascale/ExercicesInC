@@ -1,0 +1,25 @@
+# ninja log v5
+0	90	6856483967664002	CMakeFiles/Polynomial.dir/main.c.obj	e5708abc87db55b2
+91	239	6856483969104346	Polynomial.exe	e0145e952fa0809d
+2	84	6856485493014775	CMakeFiles/Polynomial.dir/main.c.obj	e5708abc87db55b2
+85	198	6856485494094519	Polynomial.exe	e0145e952fa0809d
+3	85	6856488008305688	CMakeFiles/Polynomial.dir/main.c.obj	e5708abc87db55b2
+86	195	6856488009365724	Polynomial.exe	e0145e952fa0809d
+2	87	6856490487627796	CMakeFiles/Polynomial.dir/main.c.obj	e5708abc87db55b2
+88	208	6856490488797905	Polynomial.exe	e0145e952fa0809d
+3	85	6856491077804512	CMakeFiles/Polynomial.dir/main.c.obj	e5708abc87db55b2
+86	195	6856491078864485	Polynomial.exe	e0145e952fa0809d
+2	89	6856498652112320	CMakeFiles/Polynomial.dir/main.c.obj	e5708abc87db55b2
+89	220	6856498653382299	Polynomial.exe	e0145e952fa0809d
+2	86	6856499751689628	CMakeFiles/Polynomial.dir/main.c.obj	e5708abc87db55b2
+87	197	6856499752749597	Polynomial.exe	e0145e952fa0809d
+3	93	6856501630489896	CMakeFiles/Polynomial.dir/main.c.obj	e5708abc87db55b2
+94	208	6856501631599557	Polynomial.exe	e0145e952fa0809d
+4	92	6856502882419816	CMakeFiles/Polynomial.dir/main.c.obj	e5708abc87db55b2
+93	205	6856502883500167	Polynomial.exe	e0145e952fa0809d
+2	86	6856503645249181	CMakeFiles/Polynomial.dir/main.c.obj	e5708abc87db55b2
+86	206	6856503646399209	Polynomial.exe	e0145e952fa0809d
+2	102	6856505139622645	CMakeFiles/Polynomial.dir/main.c.obj	e5708abc87db55b2
+103	219	6856505140742816	Polynomial.exe	e0145e952fa0809d
+2	91	6856505612056349	CMakeFiles/Polynomial.dir/main.c.obj	e5708abc87db55b2
+91	207	6856505613176418	Polynomial.exe	e0145e952fa0809d

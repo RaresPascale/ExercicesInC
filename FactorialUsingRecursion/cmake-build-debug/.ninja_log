@@ -1,0 +1,11 @@
+# ninja log v5
+0	73	6817442430343291	CMakeFiles/FactorialUsingRecursion.dir/main.c.obj	66624bf697b4ced2
+74	167	6817442431253676	FactorialUsingRecursion.exe	fe3501da8f1f3b59
+2	69	6817442491288158	CMakeFiles/FactorialUsingRecursion.dir/main.c.obj	66624bf697b4ced2
+69	161	6817442492158374	FactorialUsingRecursion.exe	fe3501da8f1f3b59
+2	68	6817442549500741	CMakeFiles/FactorialUsingRecursion.dir/main.c.obj	66624bf697b4ced2
+68	163	6817442550410690	FactorialUsingRecursion.exe	fe3501da8f1f3b59
+2	70	6817442664441243	CMakeFiles/FactorialUsingRecursion.dir/main.c.obj	66624bf697b4ced2
+70	170	6817442665401579	FactorialUsingRecursion.exe	fe3501da8f1f3b59
+2	76	6817444703066605	CMakeFiles/FactorialUsingRecursion.dir/main.c.obj	66624bf697b4ced2
+76	178	6817444704056596	FactorialUsingRecursion.exe	fe3501da8f1f3b59

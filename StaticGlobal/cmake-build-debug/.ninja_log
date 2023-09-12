@@ -1,0 +1,9 @@
+# ninja log v5
+0	72	6816622344168424	CMakeFiles/StaticGlobal.dir/main.c.obj	9003e40d904df905
+73	163	6816622345038414	StaticGlobal.exe	a52bcd7133f652ec
+1	76	6816622906662271	CMakeFiles/StaticGlobal.dir/main.c.obj	9003e40d904df905
+76	173	6816622907582425	StaticGlobal.exe	a52bcd7133f652ec
+3	70	6816624644383124	CMakeFiles/StaticGlobal.dir/main.c.obj	9003e40d904df905
+71	166	6816624645293115	StaticGlobal.exe	a52bcd7133f652ec
+2	74	6816625287599815	CMakeFiles/StaticGlobal.dir/main.c.obj	9003e40d904df905
+74	172	6816625288559986	StaticGlobal.exe	a52bcd7133f652ec

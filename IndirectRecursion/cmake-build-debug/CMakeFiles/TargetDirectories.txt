@@ -1,0 +1,3 @@
+C:/Users/RARES/CLionProjects/IndirectRecursion/cmake-build-debug/CMakeFiles/IndirectRecursion.dir
+C:/Users/RARES/CLionProjects/IndirectRecursion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/RARES/CLionProjects/IndirectRecursion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

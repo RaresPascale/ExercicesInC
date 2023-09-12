@@ -1,0 +1,9 @@
+# ninja log v5
+0	70	6816727316208570	CMakeFiles/NestedRecursion.dir/main.c.obj	955da8ad28a63bff
+77	172	6816727317192574	NestedRecursion.exe	eaf232a6a1380180
+1	68	6816727789281530	CMakeFiles/NestedRecursion.dir/main.c.obj	955da8ad28a63bff
+68	162	6816727790191546	NestedRecursion.exe	eaf232a6a1380180
+2	69	6816727876506197	CMakeFiles/NestedRecursion.dir/main.c.obj	955da8ad28a63bff
+69	160	6816727877376335	NestedRecursion.exe	eaf232a6a1380180
+2	275	6817423290171377	CMakeFiles/NestedRecursion.dir/main.c.obj	955da8ad28a63bff
+275	512	6817423292510936	NestedRecursion.exe	eaf232a6a1380180

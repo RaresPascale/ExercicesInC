@@ -1,0 +1,15 @@
+# ninja log v5
+1	224	6838498827413955	CMakeFiles/AnagramStrings.dir/main.c.obj	bb07ed710c82d427
+227	438	6838498829563915	AnagramStrings.exe	8849478049e304b4
+2	69	6838499597428030	CMakeFiles/AnagramStrings.dir/main.c.obj	bb07ed710c82d427
+69	160	6838499598328011	AnagramStrings.exe	8849478049e304b4
+2	69	6838499880500358	CMakeFiles/AnagramStrings.dir/main.c.obj	bb07ed710c82d427
+70	158	6838499881350755	AnagramStrings.exe	8849478049e304b4
+1	68	6838500653018603	CMakeFiles/AnagramStrings.dir/main.c.obj	bb07ed710c82d427
+69	156	6838500653868604	AnagramStrings.exe	8849478049e304b4
+2	69	6838501976434030	CMakeFiles/AnagramStrings.dir/main.c.obj	bb07ed710c82d427
+70	159	6838501977304493	AnagramStrings.exe	8849478049e304b4
+1	75	6838504203374550	CMakeFiles/AnagramStrings.dir/main.c.obj	bb07ed710c82d427
+75	174	6838504204314567	AnagramStrings.exe	8849478049e304b4
+2	66	6838504370107141	CMakeFiles/AnagramStrings.dir/main.c.obj	bb07ed710c82d427
+66	155	6838504370957272	AnagramStrings.exe	8849478049e304b4

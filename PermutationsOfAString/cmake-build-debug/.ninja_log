@@ -1,0 +1,23 @@
+# ninja log v5
+0	79	6840163622775435	CMakeFiles/PermutationsOfAString.dir/main.c.obj	c11c39c71bb5f181
+80	177	6840163623715461	PermutationsOfAString.exe	9e807dac310738a9
+1	69	6840163690201135	CMakeFiles/PermutationsOfAString.dir/main.c.obj	c11c39c71bb5f181
+69	160	6840163691081156	PermutationsOfAString.exe	9e807dac310738a9
+2	75	6840163782771248	CMakeFiles/PermutationsOfAString.dir/main.c.obj	c11c39c71bb5f181
+76	168	6840163783670838	PermutationsOfAString.exe	9e807dac310738a9
+3	72	6840163890285460	CMakeFiles/PermutationsOfAString.dir/main.c.obj	c11c39c71bb5f181
+72	163	6840163891165873	PermutationsOfAString.exe	9e807dac310738a9
+1	78	6840164036481061	CMakeFiles/PermutationsOfAString.dir/main.c.obj	c11c39c71bb5f181
+79	176	6840164037421028	PermutationsOfAString.exe	9e807dac310738a9
+1	75	6840175088789964	CMakeFiles/PermutationsOfAString.dir/main.c.obj	c11c39c71bb5f181
+76	171	6840175089700046	PermutationsOfAString.exe	9e807dac310738a9
+1	70	6840175280366274	CMakeFiles/PermutationsOfAString.dir/main.c.obj	c11c39c71bb5f181
+70	160	6840175281216391	PermutationsOfAString.exe	9e807dac310738a9
+1	82	6840175329424393	CMakeFiles/PermutationsOfAString.dir/main.c.obj	c11c39c71bb5f181
+82	170	6840175330264371	PermutationsOfAString.exe	9e807dac310738a9
+1	70	6840175497333927	CMakeFiles/PermutationsOfAString.dir/main.c.obj	c11c39c71bb5f181
+70	159	6840175498192311	PermutationsOfAString.exe	9e807dac310738a9
+3	97	6840735666293951	CMakeFiles/PermutationsOfAString.dir/main.c.obj	c11c39c71bb5f181
+98	202	6840735667304078	PermutationsOfAString.exe	9e807dac310738a9
+2	71	6840736134392317	CMakeFiles/PermutationsOfAString.dir/main.c.obj	c11c39c71bb5f181
+72	162	6840736135262301	PermutationsOfAString.exe	9e807dac310738a9

@@ -1,0 +1,7 @@
+# ninja log v5
+0	73	6816715005461470	CMakeFiles/IndirectRecursion.dir/main.c.obj	cb60cd0dcac68e0c
+75	175	6816715006441136	IndirectRecursion.exe	5eab56b18f8eb996
+1	72	6816715135455180	CMakeFiles/IndirectRecursion.dir/main.c.obj	cb60cd0dcac68e0c
+72	166	6816715136365590	IndirectRecursion.exe	5eab56b18f8eb996
+1	67	6816715233686348	CMakeFiles/IndirectRecursion.dir/main.c.obj	cb60cd0dcac68e0c
+67	155	6816715234526445	IndirectRecursion.exe	5eab56b18f8eb996

@@ -1,0 +1,7 @@
+# ninja log v5
+0	79	6822718785136466	CMakeFiles/StaticVsDynamicArray.dir/main.c.obj	1f7eabca82af5080
+80	196	6822718786276524	StaticVsDynamicArray.exe	a121a6a1270585c2
+1	71	6822719072614729	CMakeFiles/StaticVsDynamicArray.dir/main.c.obj	1f7eabca82af5080
+72	163	6822719073482119	StaticVsDynamicArray.exe	a121a6a1270585c2
+2	71	6822719374959365	CMakeFiles/StaticVsDynamicArray.dir/main.c.obj	1f7eabca82af5080
+72	158	6822719375789383	StaticVsDynamicArray.exe	a121a6a1270585c2

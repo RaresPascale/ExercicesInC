@@ -1,0 +1,15 @@
+# ninja log v5
+1	85	6853897529609207	CMakeFiles/SparseMatrix.dir/main.c.obj	d7c69d66d799bed1
+86	222	6853897530949583	SparseMatrix.exe	70da155491b1803a
+2	78	6853898967731413	CMakeFiles/SparseMatrix.dir/main.c.obj	d7c69d66d799bed1
+79	172	6853898968631437	SparseMatrix.exe	70da155491b1803a
+3	88	6853942108237863	CMakeFiles/SparseMatrix.dir/main.c.obj	d7c69d66d799bed1
+89	199	6853942109297880	SparseMatrix.exe	70da155491b1803a
+1	84	6853944907841117	CMakeFiles/SparseMatrix.dir/main.c.obj	d7c69d66d799bed1
+85	179	6853944908751105	SparseMatrix.exe	70da155491b1803a
+2	83	6853946769780346	CMakeFiles/SparseMatrix.dir/main.c.obj	d7c69d66d799bed1
+84	180	6853946770699945	SparseMatrix.exe	70da155491b1803a
+2	82	6853948414066531	CMakeFiles/SparseMatrix.dir/main.c.obj	d7c69d66d799bed1
+83	182	6853948415006638	SparseMatrix.exe	70da155491b1803a
+2	87	6853953074328183	CMakeFiles/SparseMatrix.dir/main.c.obj	d7c69d66d799bed1
+87	186	6853953075287891	SparseMatrix.exe	70da155491b1803a

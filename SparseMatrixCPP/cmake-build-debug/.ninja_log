@@ -1,0 +1,13 @@
+# ninja log v5
+1	413	6854643828701135	CMakeFiles/SparseMatrixCPP.dir/main.cpp.obj	c095c9ae0267aabd
+414	636	6854643830911124	SparseMatrixCPP.exe	c863c4d2beae6e0a
+2	350	6854645796231967	CMakeFiles/SparseMatrixCPP.dir/main.cpp.obj	c095c9ae0267aabd
+351	455	6854645797241957	SparseMatrixCPP.exe	c863c4d2beae6e0a
+5	594	6854653513090937	CMakeFiles/SparseMatrixCPP.dir/main.cpp.obj	c095c9ae0267aabd
+595	796	6854653515070932	SparseMatrixCPP.exe	c863c4d2beae6e0a
+3	379	6854653860982550	CMakeFiles/SparseMatrixCPP.dir/main.cpp.obj	c095c9ae0267aabd
+380	486	6854653862002955	SparseMatrixCPP.exe	c863c4d2beae6e0a
+2	354	6854663964238656	CMakeFiles/SparseMatrixCPP.dir/main.cpp.obj	c095c9ae0267aabd
+354	457	6854663965248616	SparseMatrixCPP.exe	c863c4d2beae6e0a
+2	348	6854664840096404	CMakeFiles/SparseMatrixCPP.dir/main.cpp.obj	c095c9ae0267aabd
+348	448	6854664841056379	SparseMatrixCPP.exe	c863c4d2beae6e0a

@@ -1,0 +1,17 @@
+# ninja log v5
+2	73	6842510064408116	CMakeFiles/DiagonalMatrix.dir/main.c.obj	fb93544eb2967135
+74	170	6842510065337995	DiagonalMatrix.exe	697cbac1ea729a44
+2	193	6843480592783117	CMakeFiles/DiagonalMatrix.dir/main.c.obj	fb93544eb2967135
+193	360	6843480594432341	DiagonalMatrix.exe	697cbac1ea729a44
+2	76	6843482490793739	CMakeFiles/DiagonalMatrix.dir/main.c.obj	fb93544eb2967135
+77	181	6843482491804218	DiagonalMatrix.exe	697cbac1ea729a44
+2	81	6843487911593560	CMakeFiles/DiagonalMatrix.dir/main.c.obj	fb93544eb2967135
+81	176	6843487912512076	DiagonalMatrix.exe	697cbac1ea729a44
+2	73	6843489645363391	CMakeFiles/DiagonalMatrix.dir/main.c.obj	fb93544eb2967135
+74	163	6843489646233460	DiagonalMatrix.exe	697cbac1ea729a44
+2	110	6843490183150740	CMakeFiles/DiagonalMatrix.dir/main.c.obj	fb93544eb2967135
+2	228	6843516708358569	DiagonalMatrix.exe	697cbac1ea729a44
+2	245	6843521435295703	CMakeFiles/DiagonalMatrix.dir/main.c.obj	fb93544eb2967135
+246	429	6843521437094068	DiagonalMatrix.exe	697cbac1ea729a44
+3	96	6843525087545794	CMakeFiles/DiagonalMatrix.dir/main.c.obj	fb93544eb2967135
+96	198	6843525088535717	DiagonalMatrix.exe	697cbac1ea729a44

@@ -1,0 +1,19 @@
+# ninja log v5
+0	92	7017094276968247	CMakeFiles/CharacterArrays.dir/main.c.obj	285ad9fd3a81fe7f
+93	231	7017094278338201	CharacterArrays.exe	8dfae599eb128abe
+2	88	7017098530772320	CMakeFiles/CharacterArrays.dir/main.c.obj	285ad9fd3a81fe7f
+88	199	7017098531852293	CharacterArrays.exe	8dfae599eb128abe
+2	76	7017098649660172	CMakeFiles/CharacterArrays.dir/main.c.obj	285ad9fd3a81fe7f
+76	184	7017098650710242	CharacterArrays.exe	8dfae599eb128abe
+1	71	7017098765195969	CMakeFiles/CharacterArrays.dir/main.c.obj	285ad9fd3a81fe7f
+71	174	7017098766186371	CharacterArrays.exe	8dfae599eb128abe
+2	73	7017098881192074	CMakeFiles/CharacterArrays.dir/main.c.obj	285ad9fd3a81fe7f
+74	171	7017098882132365	CharacterArrays.exe	8dfae599eb128abe
+2	80	7017099189044825	CMakeFiles/CharacterArrays.dir/main.c.obj	285ad9fd3a81fe7f
+81	186	7017099190064888	CharacterArrays.exe	8dfae599eb128abe
+2	69	7017099276791963	CMakeFiles/CharacterArrays.dir/main.c.obj	285ad9fd3a81fe7f
+70	171	7017099277782059	CharacterArrays.exe	8dfae599eb128abe
+2	74	7017099438434292	CMakeFiles/CharacterArrays.dir/main.c.obj	285ad9fd3a81fe7f
+75	182	7017099439474642	CharacterArrays.exe	8dfae599eb128abe
+2	73	7017099697935971	CMakeFiles/CharacterArrays.dir/main.c.obj	285ad9fd3a81fe7f
+74	176	7017099698916058	CharacterArrays.exe	8dfae599eb128abe
